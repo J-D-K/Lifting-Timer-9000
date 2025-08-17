@@ -10,7 +10,8 @@ button.start {
     border-radius: 4px;
     color: white;
     font-size: xx-large;
-    padding: 8px;
+    margin: 1%;
+    padding: 10px;
 }
 
 button.start:hover {
